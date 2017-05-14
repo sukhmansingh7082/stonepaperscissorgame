@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.jpg",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\download.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player1.jpg",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\player1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\draw.jpg",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\draw.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p22.jpg",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\p22.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back4id.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\back4id.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\images.jpg",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
+    }
+]

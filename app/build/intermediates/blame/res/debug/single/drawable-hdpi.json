@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pappp.png",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\pappp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stonee.png",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\stonee.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\popo.png",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\popo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sci.png",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\drawable-hdpi\\sci.png"
+    }
+]

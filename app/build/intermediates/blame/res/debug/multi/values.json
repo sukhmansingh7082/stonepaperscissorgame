@@ -1,0 +1,336 @@
+[
+    {
+        "outputFile": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 44,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 44,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 52,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 52,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 40,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 77,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 77,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 47,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 47,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endLine": 10,
+                    "endColumn": 17,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endLine": 10,
+                        "endColumn": 17,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 52,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 52,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 39,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 39,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endColumn": 44,
+                    "endOffset": 739
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 44,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 744,
+                    "endColumn": 44,
+                    "endOffset": 784
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 44,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 789,
+                    "endColumn": 40,
+                    "endOffset": 825
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1102,
+                        "endColumn": 40,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 41,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 41,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endColumn": 423,
+                    "endOffset": 1291
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 423,
+                        "endOffset": 622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1296,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1582
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1587,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cool.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\menu\\cool.xml"
+    }
+]

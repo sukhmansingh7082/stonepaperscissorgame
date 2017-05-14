@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rulee">Rock-Paper-Scissors is a zero-sum hand game usually played between two people. In each chance, any one of the individual has to choose one symbol from Rock,Paper and Scissors and then other individual has to do the same. If rock is selected against paper,then paper wins and if paper is selected against scissors then paper wins, and if scissors is selected against rock, then rock wins.  </string>
+    <string name="Rule">How to play</string>
+    <string name="developer">Developer</string>
+    <string name="deveoo">This game is developed by Sukhman a passionate developer. This is his first application and update of this will be coming soon.
+        </string>
+    <string name="player2">Player-2</string>
+    <string name="player1">Player-1</string>
+    <string name="result">Result</string>
+    <string name="decesion">Are you sure, you want to exit this game</string>
+    <string name="positive">Yes</string>
+    <string name="negative">No</string>
+
+</resources>

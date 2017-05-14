@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p1.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\layout\\p1.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player22.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\layout\\player22.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\layout\\developer.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\layout\\developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\layout\\draww.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\layout\\draww.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rules.xml",
+        "source": "C:\\Users\\admin\\AndroidstudioProjects\\stonepaperscissor\\app\\src\\main\\res\\layout\\rules.xml"
+    }
+]
